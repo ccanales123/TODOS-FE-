@@ -10,7 +10,7 @@ Run this command in order to install the dependencies of react(FE)
 $ npm install
 ```
 
-### 3. Run the application
+### 2. Run the application
 
 This next command will start server by default on port [3000](http://localhost:5000) and client (react) by default on port [3000](http://localhost:3000)
 ```sh
