@@ -1,16 +1,18 @@
-#Challenge-todos
-FE application.
+# Challenge-todos
+### FE application.
 
-##Installation guide
-1. Install dependencies
-Run this command in order to install the dependencies of server(BE)
+## Installation guide
 
-#$ npm install
+### 1. Install dependencies
+
 Run this command in order to install the dependencies of react(FE)
+```sh
+$ npm install
+```
 
-#$ npm run dev
-This next command will start only the server by default on port 3000
+### 3. Run the application
 
-#$ npm run server
-This next command will start only the client (react) by default on port 3000
-
+This next command will start server by default on port [3000](http://localhost:5000) and client (react) by default on port [3000](http://localhost:3000)
+```sh
+$ npm run start
+```
