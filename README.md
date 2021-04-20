@@ -1,4 +1,4 @@
-# Challenge-todos
+# Challenge-todos FE
 ### FE application.
 
 ## Installation guide
